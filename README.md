@@ -1,6 +1,6 @@
 # Brand Assets
 
-Official visual identity assets for xCaptaiN.
+Official visual identity assets for MUHAMMED DILSHAD A (@xCaptaiN09).
 
 <p align="center">
   <img src="renders/OFFICIAL_XC_TRANSPARENT.png" width="220" alt="XC Logo" />
