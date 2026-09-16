@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="renders/OFFICIAL_XC_TRANSPARENT.png" width="200" alt="XC Logo"/>
+<img src="vectors/OFFICIAL_XC_REDESIGN.svg" width="200" alt="XC Redesign Logo"/>
 
 # xCaptaiN09
 
@@ -17,7 +18,7 @@ Official visual identity — logos, vectors, renders, and motion assets for Muha
 <p align="center">
   <img src="renders/XCAPTAIN-NEW-OFFICIAL-LOGO-01.png" width="180" alt="Official Logo"/>
   <img src="renders/OFFICIAL_XC_REDESIGN_whitebg.png" width="180" alt="Redesign"/>
-  <img src="renders/XC-RED.png" width="180" alt="Red Variant"/>
+  <img src="renders/XC_BW.png" width="180" alt="Black & White Variant"/>
 </p>
 
 ## Contents
