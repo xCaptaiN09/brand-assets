@@ -1,19 +1,45 @@
-# Brand Assets
+<div align="center">
 
-Official visual identity assets for MUHAMMED DILSHAD A (@xCaptaiN09).
+<img src="renders/OFFICIAL_XC_TRANSPARENT.png" width="200" alt="XC Logo"/>
+
+# xCaptaiN09
+
+**Brand Assets**
+
+Official visual identity — logos, vectors, renders, and motion assets for Muhammed Dilshad A (@xCaptaiN09).
+
+</div>
+
+---
+
+## Gallery
 
 <p align="center">
-  <img src="renders/OFFICIAL_XC_TRANSPARENT.png" width="220" alt="XC Logo" />
+  <img src="renders/XCAPTAIN-NEW-OFFICIAL-LOGO-01.png" width="180" alt="Official Logo"/>
+  <img src="renders/OFFICIAL_XC_REDESIGN_whitebg.png" width="180" alt="Redesign"/>
+  <img src="renders/XC-RED.png" width="180" alt="Red Variant"/>
 </p>
 
-<p align="center">
-  <img src="renders/XCAPTAIN-NEW-OFFICIAL-LOGO-01.png" width="220" alt="xCaptaiN09 Official Logo" />
-</p>
+## Contents
 
-<p align="center">
-  <img src="renders/OFFICIAL_XC_REDESIGN_whitebg.png" width="220" alt="xCaptaiN09 Official Logo" />
-</p>
+| Folder        | Contents                                                         |
+| ------------- | ---------------------------------------------------------------- |
+| `vectors/`    | SVG source files, banner PDF                                     |
+| `renders/`    | PNG exports — transparent, black bg, white bg, squircle variants |
+| `animations/` | Logo motion MP4s                                                 |
 
 ## Usage & Legal
 
-All visual marks, vectors, renders, and media in this repository are proprietary. Refer to the [LICENSE](LICENSE) for terms.
+All visual marks, vectors, renders, and media in this repository are proprietary to **Muhammed Dilshad A (xCaptaiN09)**.
+
+No part of this repository may be reproduced, distributed, modified, or used — commercially or non-commercially — without prior written permission.
+
+Unauthorized use may constitute trademark and/or copyright infringement. See [LICENSE](LICENSE).
+
+---
+
+<div align="center">
+
+© 2026 Muhammed Dilshad A (xCaptaiN09). All Rights Reserved.
+
+</div>
